@@ -1,0 +1,8 @@
+- Collaboration with team members
+- Code backup and history
+- Feature branching and merging
+- Version control using Git
+- Collaboration with team members
+- Code backup and history
+- Feature branching and merging
+- Pull requests and code review
